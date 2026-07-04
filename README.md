@@ -1,1 +1,1 @@
-"reactCourse"
+"reactCourse2026"
