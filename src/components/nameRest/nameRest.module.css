@@ -1,0 +1,23 @@
+.container {
+    padding: 10px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: slategray;
+}
+
+.listRest {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    color: slategray;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.nameRest {
+    padding: 16px 24px;
+}

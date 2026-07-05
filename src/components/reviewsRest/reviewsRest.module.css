@@ -1,0 +1,15 @@
+.reviewWrapper {
+    padding: 0 20px;
+}
+
+.reviewItem {
+    font-size: 15px;
+    color: cadetblue;
+    font-style: normal;
+}
+
+.reviewList {
+    font-style: italic;
+    font-size: 14px;
+    color: cornflowerblue;
+}

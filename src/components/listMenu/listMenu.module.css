@@ -1,0 +1,15 @@
+.menuWrapper {
+    padding: 0 20px;
+}
+
+.menuItem {
+    font-size: 15px;
+    color: steelblue;
+    font-style: normal;
+}
+
+.menuList {
+    font-style: italic;
+    font-size: 14px;
+    color: slategrey;
+}
