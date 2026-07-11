@@ -1,9 +1,13 @@
-import { NameRest } from './components/nameRest/nameRest';
+import { RestaurantsList } from './components/RestaurantsList/RestaurantsList';
+import { Header } from './components/header/header';
+import { Footer } from './components/footer/footer';
 
 export function App() {
     return (
         <div>
-            <NameRest />
+            <Header />
+            <RestaurantsList />
+            <Footer />
         </div>
     );
 }
