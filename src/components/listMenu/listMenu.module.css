@@ -2,14 +2,22 @@
     padding: 0 20px;
 }
 
-.menuItem {
+.menuTitle {
     font-size: 15px;
     color: steelblue;
     font-style: normal;
+    
 }
 
 .menuList {
     font-style: italic;
     font-size: 14px;
     color: slategrey;
+    
+}
+
+.menuItem {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
 }

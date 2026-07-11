@@ -1,4 +1,5 @@
 import styles from "./reviewsRest.module.css";
+import { ReviewForm } from '../ReviewForm/ReviewForm.jsx';
 
 export function ReviewsRest({review}) {
     if (!review) {
@@ -15,6 +16,7 @@ export function ReviewsRest({review}) {
                     </li>
                 ))}
             </ul>
+            <ReviewForm />
         </div>
     );
 }
