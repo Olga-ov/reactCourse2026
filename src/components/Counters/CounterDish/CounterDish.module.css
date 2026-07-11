@@ -1,0 +1,17 @@
+.containerCounter {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.btnCounter {
+    padding: 2px 10px;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;
+    background: #fff;
+    cursor: pointer;
+}
+
+.countCounter {
+    padding: 0 5px;
+}
